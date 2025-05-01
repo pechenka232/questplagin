@@ -1,0 +1,8 @@
+name: QuestMaster
+version: 1.0
+main: me.yourname.questmaster.QuestMaster
+api-version: 1.16
+commands:
+  quests:
+    description: Показать доступные квесты
+    usage: /quests
